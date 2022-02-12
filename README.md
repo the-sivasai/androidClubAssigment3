@@ -16,7 +16,7 @@ This is a basic counter application made using react native for my android club 
 
 * Overview 
 
-![](https://github.com/the-sivasai/androidClubAssignment3-counterApp/blob/master/screenshotsOfCounterApplication/Image1_CounterApp.jpg)
+![Image1_CounterApp](https://user-images.githubusercontent.com/98167133/153720553-5fa7ca26-0577-41a9-b35a-0f8a9d6c39b4.jpg)
 
 * Increment_Number
 
