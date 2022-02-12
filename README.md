@@ -14,10 +14,25 @@ This is a basic counter application made using react native for my android club 
 ---
 ## Screenshots of the Applications
 
-![alt text](https://github.com/the-sivasai/androidClubAssignment3/blob/master/Image1_CounterApp.jpg?raw=true)
+* Overview 
+
+![](https://github.com/the-sivasai/androidClubAssignment3-counterApp/blob/master/screenshotsOfCounterApplication/Image1_CounterApp.jpg)
+
+* Increment_Number
+
+![](https://github.com/the-sivasai/androidClubAssignment3-counterApp/blob/master/screenshotsOfCounterApplication/Image2_Increment_Number.jpg)
+
+* Decrement Number
+
+![](https://github.com/the-sivasai/androidClubAssignment3-counterApp/blob/master/screenshotsOfCounterApplication/Image3_Decrement_Number.jpg)
+
+* Clear ( TouchableOpacity Button )
+
+![](https://github.com/the-sivasai/androidClubAssignment3-counterApp/blob/master/screenshotsOfCounterApplication/Image4_TextOpacity_Button.jpg)
+
 
 ---
-## AUTHORS
+## Authors
 
 Samba Siva Sai D \
 20MIS1189 \
